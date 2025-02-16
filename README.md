@@ -69,4 +69,7 @@
 
 [프로젝트 PITCHPLAY git](https://github.com/hyerin1111/pitchplay.git)
 ---
-
+## 📧 연락처  
+이메일: [your.email@example.com](tmddn7439@naver.com)  
+GitHub: [https://github.com/yourusername](https://github.com/seungwoo1)
+Instagram: [https://www.instagram.com/yourusername](https://www.instagram.com/9_9xkx)
