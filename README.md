@@ -68,8 +68,9 @@
 - **데이터베이스 설계**: 프로젝트에 필요한 데이터를 효율적으로 관리하기 위해 **데이터베이스 설계**를 맡았습니다.
 
 [프로젝트 PITCHPLAY git](https://github.com/hyerin1111/pitchplay.git)
----
+
 ## 📧 연락처  
 이메일: [your.email@example.com](tmddn7439@naver.com)  
 GitHub: [https://github.com/yourusername](https://github.com/seungwoo1)
 Instagram: [https://www.instagram.com/yourusername](https://www.instagram.com/9_9xkx)
+---
