@@ -89,7 +89,7 @@
 - Git을 활용한 코드 버전 관리 및 협업을 진행하며,  
 - 코드 리뷰를 통해 코드 품질을 개선하고, 팀원들과 적극적으로 피드백을 주고받으며 프로젝트를 완성해 나갔습니다.
 
-[프로젝트 PITCHPLAY git](https://github.com/hyerin1111/pitchplay.git)
+[프로젝트 Kkomoadopt git](https://github.com/yeonhui94/kkomoadopt)
 
 ## 📧 연락처 
 이메일: [tmddn7439@naver.com](tmddn7439@naver.com)  
